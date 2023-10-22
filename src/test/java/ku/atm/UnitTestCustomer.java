@@ -5,7 +5,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-
+//Nutthawat Aonprasert
+//6410450940
 public class UnitTestCustomer {
 
     Customer customer;

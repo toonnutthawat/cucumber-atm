@@ -1,5 +1,6 @@
 package ku.atm;
-
+//Nutthawat Aonprasert
+//6410450940
 public class Customer {
    private int id;
    private int pin;

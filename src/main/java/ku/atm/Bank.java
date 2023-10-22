@@ -2,7 +2,8 @@ package ku.atm;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//Nutthawat Aonprasert
+//6410450940
 public class Bank {
    private String name;
    private Map<Integer, Customer> customers;
